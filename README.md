@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 
 ## Projects
-CohortManagementBot using python
-Notes using flask
-Online Voting System using php, javascript, html & css
+- CohortManagementBot using python
+- Notes using flask
+- Online Voting System using php, javascript, html & css
 <!---
 AKASH-SAKPAL/AKASH-SAKPAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
