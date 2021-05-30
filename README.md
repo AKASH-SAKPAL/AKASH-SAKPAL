@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ## Projects
-- CohortManagementBot using python
+- DiscordBot - CohortManagementBot using python
 - Notes using flask
 - Online Voting System using php, javascript, html & css
 <!---
